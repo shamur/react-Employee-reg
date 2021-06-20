@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "Firstname": "Vishal kumar ",
+      "Lastname": "admin",
+      "Phone": "8083677307",
+      "Email": "vishalkool.098@gmail.com",
+      "EmployeeId": "e69",
+      "id": 1
+    },
+    {
+      "Firstname": "Vishal",
+      "Lastname": "kumar",
+      "Phone": "8083677307",
+      "Email": "vishalkool.098@gmail.com",
+      "EmployeeId": "",
+      "": "e98",
+      "id": 6
+    },
+    {
+      "Firstname": "Vishal",
+      "Lastname": "kumar",
+      "Phone": "8083677307",
+      "Email": "vishalkool.098@gmail.com",
+      "EmployeeId": "",
+      "": "e85",
+      "id": 7
+    },
+    {
+      "Firstname": "Vishal",
+      "Lastname": "kumar",
+      "Phone": "8083677307",
+      "Email": "vishalkool.098@gmail.com",
+      "EmployeeId": "",
+      "": "e21",
+      "id": 8
+    }
+  ]
+}
